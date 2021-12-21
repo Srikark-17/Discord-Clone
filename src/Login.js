@@ -13,8 +13,8 @@ function Login() {
     <div className="login">
       <div className="login__logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/800px-Discord_logo.svg.png"
-          alt=""
+          src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
+          alt="Discord Logo"
         />
       </div>
 
