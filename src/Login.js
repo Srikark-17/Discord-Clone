@@ -6,6 +6,7 @@ import "./Login.css";
 function Login() {
   const signIn = () => {
     // Google Login
+    alert("DO NOT ENTER IN ANY PERSONAL INFORMATION! This is NOT DISCORD!");
     auth.signInWithPopup(provider).catch((error) => alert(error.message));
   };
 
